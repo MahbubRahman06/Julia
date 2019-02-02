@@ -1,0 +1,6 @@
+authors = ["mahbubar rahman <mrah06@gmail.com>"]
+name = "Package1"
+uuid = "2e61c470-2710-11e9-29be-c568f907c9f4"
+version = "0.1.0"
+
+[deps]
